@@ -8,10 +8,10 @@
 <AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="416.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.FXMLController">
     <children>
         <ImageView fitHeight="358.0" fitWidth="315.0" layoutX="260.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true" />
-        <Button layoutX="16.0" layoutY="60.0" mnemonicParsing="false" text="Button" />
-        <Button layoutX="16.0" layoutY="90.0" mnemonicParsing="false" text="Button" />
-        <Button layoutX="16.0" layoutY="120.0" mnemonicParsing="false" text="Button" />
-        <Button layoutX="16.0" layoutY="150.0" mnemonicParsing="false" text="Button" />
+        <Button fx:id="btn1" layoutX="16.0" layoutY="60.0" mnemonicParsing="false" text="Button" />
+        <Button fx:id="btn2" layoutX="16.0" layoutY="90.0" mnemonicParsing="false" text="Button" />
+        <Button fx:id="btn3" layoutX="16.0" layoutY="120.0" mnemonicParsing="false" text="Button" />
+        <Button fx:id="btn4" layoutX="16.0" layoutY="150.0" mnemonicParsing="false" text="Button" />
         <Button layoutX="75.0" layoutY="60.0" mnemonicParsing="false" text="Button" />
         <Button layoutX="75.0" layoutY="90.0" mnemonicParsing="false" text="Button" />
         <Button layoutX="75.0" layoutY="120.0" mnemonicParsing="false" text="Button" />
