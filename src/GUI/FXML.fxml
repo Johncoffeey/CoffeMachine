@@ -12,10 +12,10 @@
         <Button layoutX="16.0" layoutY="90.0" mnemonicParsing="false" text="Button" />
         <Button layoutX="16.0" layoutY="120.0" mnemonicParsing="false" text="Button" />
         <Button layoutX="16.0" layoutY="150.0" mnemonicParsing="false" text="Button" />
-        <Button layoutX="75.0" layoutY="60.0" mnemonicParsing="false" text="Button" />
-        <Button layoutX="75.0" layoutY="90.0" mnemonicParsing="false" text="Button" />
-        <Button layoutX="75.0" layoutY="120.0" mnemonicParsing="false" text="Button" />
-        <Button layoutX="75.0" layoutY="150.0" mnemonicParsing="false" text="Button" />
+        <Button fx:id="btn5" layoutX="75.0" layoutY="60.0" mnemonicParsing="false" text="Button" />
+        <Button fx:id="btn6" layoutX="75.0" layoutY="90.0" mnemonicParsing="false" text="Button" />
+        <Button fx:id="btn7" layoutX="75.0" layoutY="120.0" mnemonicParsing="false" text="Button" />
+        <Button fx:id="btn8" layoutX="75.0" layoutY="150.0" mnemonicParsing="false" text="Button" />
         <Label layoutX="14.0" layoutY="14.0" text="Coffe Machine" />
         <Label fx:id="lblDisplay" layoutX="16.0" layoutY="364.0" text="Display" />
     </children>
